@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="48dp"
+    android:layout_height="fill_parent"
+    android:layout_gravity="right" 
+    >
+
+    <!-- Menu Item Image -->
+    <ImageView
+        android:layout_width="32dp"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:focusable="false"
+        android:src="@drawable/shop" 
+        />
+
+    <!-- Badge Count -->    
+    <TextView
+        android:id="@+id/actionbar_notifcation_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="99"
+        android:focusable="false"
+        android:textColor="@android:color/holo_orange_dark" />
+
+</RelativeLayout><!-- From: file:/D:/AndroidStudio/MiracleF/miracle/src/main/res/layout/actionbar_shopping.xml -->

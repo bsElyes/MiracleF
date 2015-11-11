@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Miracle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_one_video">One_video</string>
+    <string name="title_activity_acceuil">AcceuilActivity</string>
+    <string name="title_section1">Soins</string>
+    <string name="title_section2">Maquillage</string>
+    <string name="title_section3">Parfums Homme</string>
+    <string name="title_section4">Parfums Femme</string>
+    <string name="title_section5">Parfums Mixte</string>
+    <string name="title_section6">Coffrets pour Femme</string>
+    <string name="title_section7">Coffrets pour Homme</string>
+    <string name="title_activity_catalogues">Catalogues des Produits</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_search">Search</string>
+    <string name="action_search_video">Video</string>
+    <string name="action_my_card">Ma Carte Miracle</string>
+    <string name="action_videos">Conseils Beauté</string>
+    <string name="action_shopping">Shopping Beauté</string>
+    <string name="action_magasins">Nos Magasins</string>
+    <string name="title_activity_videos">Videos</string>
+    <string name="title_activity_magasins">Magasins</string>
+    <string name="title_activity_my_card">MyCard</string>
+    <string name="title_activity_products">List des Produits</string>
+    <string name="title_activity_catalogue">Catalogue</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_produit">Produit</string>
+    <string name="title_activity_product_details">ProductDetails</string>
+    <string name="title_activity_main_menu">Miracle Beauty</string>
+    <string name="app_description">Android drawer icon with material design animation</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="action_map">Magasins Map</string>
+    <string name="action_shop">Cart</string>
+    <string name="facebook_app_id">306612572867941</string>
+    <string name="change_locale">Change Locale</string>
+    <string name="list_moments_title">Touch a moment to delete</string>
+    <string name="send_interactive_button_name">Send Interactive Post</string>
+    <string name="sign_in_profile_label">profile scope</string>
+    <string name="sign_out_button_name">Sign out</string>
+    <string name="revoke_access_button_name">Revoke access</string>
+    <string name="share_title">Prefill Text (optional)</string>
+    <string name="share_prefill_text">Welcome to the Google+ platform.</string>
+    <string name="btn_res">Reserver</string>
+    <string name="default_status"></string>
+    <string name="greeting_status">Welcome, %s.</string>
+    <string name="greeting_status_sign_in_required">Sign-in required</string>
+    <string name="greeting_status_error">Error signing in: %s.</string>
+    <string name="loading_status">Loading…</string>
+    <string name="signing_in_status">Signing in with Google+.</string>
+    <string name="signed_in_status">Signed in as \"%s\".</string>
+    <string name="title_activity_azert">aaz</string>
+
+    <!-- Used if there was an error loading the signed in user's name. -->
+    <string name="unknown_person">Unknown</string>
+    <string name="signed_out_status">Signed out.</string>
+    <string name="revoke_access_status">Revoked access.</string>
+    <string name="revoke_access_error_status">Unable to revoke access.</string>
+    <string name="plus_write_moment_status">Saving moment</string>
+    <string name="plus_write_moment_status_success">Write moment succeeded</string>
+    <string name="plus_write_moment_status_cached">Write moment cached</string>
+    <string name="plus_write_moment_status_auth_error">Sign in is required</string>
+    <string name="plus_write_moment_status_error">Internal error</string>
+    <string name="plus_remove_moment_status">Removing moment</string>
+    <string name="plus_one_small_name">Small +1 button</string>
+    <string name="plus_one_medium_name">Medium +1 button</string>
+    <string name="plus_one_tall_name">Tall +1 button</string>
+    <string name="plus_one_standard_name">Standard +1 button</string>
+    <string name="plus_one_standard_ann_name">Standard +1 button (with inline annotation)</string>
+    <string name="plus_example_deep_link_id">/+/mobile/android/</string>
+    <string name="plus_example_deep_link_url">        https://developers.google.com/+/mobile/android/</string>
+    <string name="plus_generic_error">Sign in with Google is not available.</string>
+    <string name="progress_message">Signing in to Google…</string>
+    <string name="cat1">Maquillage</string>
+    <string name="cat2">Soins</string>
+    <string name="cat3">Soins</string>
+    <string name="title_activity_card_view_test">CardViewTEST</string>
+    <string name="title_activity_test_list">TestList</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="list_card_undo_title">Annuler</string>
+    <!--<string name="undo_card">Card removed</string>-->
+
+    <plurals name="list_card_undo_items">
+        <item quantity="one">1 product removed</item>
+        <item quantity="other">%d cards removed</item>
+    </plurals>
+</resources>

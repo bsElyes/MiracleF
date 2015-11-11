@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\materialDesign\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cff800c7900934f44582d6d44eba209637bd7bb1">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-e31dec594d80f33141d764cd6e86d5bc6ea23e6f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-6eadb06fb5b0818c349fdbe8dffeb532185da002.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\circularImageView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0ae6656e35c78af159f7dfbdba7a3174c4ac9edd">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-07db5d7e8f559abbcf6f35eeba87b98de5175e34.jar" />
+    </item>
+    <item
+        jar="D:\Tools\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-7206e236c73dd42d0cb6c306e72131d3d3b18e66.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\libLDrawer\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c049f3a8a40fb5468ff0c263de8e5374029f9029">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-6d8abbf7cb27fb2417a5973807d1ddabf61f360e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-410f99b1dd5988dcbe4e7345eb81f960b2508776.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-c7886d1b407fc1e929310c91b55214e1e3e2c75c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-cards\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-641c4d40a90f4f58cee615f27fa57379afa93101.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-2144609527cea3903eb28da4619c5ae8003ac1ce.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\libs\OnBarcode.AndroidBarcode.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59dd13e54178477c62a29f94057e09f6d536c109">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\OnBarcode.AndroidBarcode-4db1efdf01c98767c24199420ee050331ce9e32d.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-b3f4e9c4d77dc4c0e647b28a57545996863f3adc.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\MaterialNavigationDrawerModule\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2812ac05a77829f6b4cd53a9bf0c2e58de13ed70">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-fdff1d1d8370bba1128d8f80d87aefdaa0140213.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-e62007fec382926ee9f8e0fbce8bc3e14484337c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\ormlite-android-4.48-bc25812812563f97474f31c5dbcb4ed60ceb61f0.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\ormlite-core-4.48-c9a915da747e855abd1e595eff77b7daeb8bba10.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\materialDesign\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c5724842fba6b9ebd772d857d1b4e5aa44cea950">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-4a76f422f10af82b15a407e2cc11c85cadcbff52.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-0c4b0dff44d8ecb57673aecf21f53075973f0e24.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\sliderLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="113e37452023b900734705616172adb6e44a1de5">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-3437c47f88569f2e0718aa95a5fc2aadf3374242.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-cards\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-bb337852df27f304aba6e62e936cf1c7ad574f25.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\lNavDrawer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3a260f98643bbdaac270f0987842cc23fedb731">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-87c4f7851225914b0d6a5bbf5afd407925a26bed.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-dragdrop\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2ccd61dc70f7b1dc968c73626f90a61eb542905">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-41cad5a96faee36ec022f9bba86048165bce45a4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\libs\AndroidSwipeLayout-v1.1.6.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ebc31c290b523f79c57859c3fcc1b398ffcdf082">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\AndroidSwipeLayout-v1.1.6-e6933be49850ab39787f84939668c1cad713244c.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\libs\ormlite-jdbc-4.48.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b915ebd2c4b901eec32e4df44e5503752e92ce38">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\ormlite-jdbc-4.48-985c4041a2075964300f49d57f9d14fda690bda4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ElyesL\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-core\3.1.0\f3f9629b068554d8513a2aaf34418171bf430851\lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\lib-core-3.1.0-68a46fd77d04c9ebf9fb931f4dcbde9d21b986c1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-recyclerview\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="15d2052aed6aa62f341d22e1ba6177697c7dc552">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-6c47ffcd11082bae973a95923f96a73599a60e47.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-core\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d6467247ced8a5d51f8ff73a6595d517eddba6">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-0974a153d2b640ccafe3b2557d4bc69651307662.jar" />
+    </item>
+    <item
+        jar="C:\Users\ElyesL\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\63737e512fcd9e0ebe9bcd0bb375c2dded74116f\lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\lib-manipulation-3.1.0-9e4ecdcd3f77dbeae30e16d5540b1938bc0d1c0f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\libs\android-viewbadger.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\android-viewbadger-d8270ab261a54c4735e7c2f4eb6326211b8e264a.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-61e9364289addd6b9749e05c7e875e8efb7c7243.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-2c1f1a931fc9479689ac619f9093e943ff7c707b.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\sliderLibrary\unspecified\jars\libs\NineOldAndroid-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\NineOldAndroid-2.4.0-65a5230d516edbdb2cc90a492d6de6ec47328786.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\libs\ormlite-jdbc-4.48.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b915ebd2c4b901eec32e4df44e5503752e92ce38">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\ormlite-jdbc-4.48-0d9cd832881be31cf6045a20ddeff08f41e71a22.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\sliderLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="42b3b3c243a2e48680916fa5b9eb9cca2978dfc9">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-af39b5cf285347c8f7c7c6ad77f3b91e2234f98e.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\sliderLibrary\unspecified\jars\libs\picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\picasso-2.3.3-596f4e80a4a6cad5254865f095633e4005dc0e64.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\MaterialNavigationDrawerModule\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="25c8b013023a10e0aa42a084bb609e89e1231d23">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-0853ef2e8645d1e2c22825971e6e28255e96eb22.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-a1c11353b34ab466c47d138da570a46f30dbb828.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f9313271d010497272943a801e6c5e707ea6ad35.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\libs\AndroidSwipeLayout-v1.1.6.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ebc31c290b523f79c57859c3fcc1b398ffcdf082">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\AndroidSwipeLayout-v1.1.6-c2f3c7c1125ac303df3954828f088fba32e4ae8a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-core\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d6467247ced8a5d51f8ff73a6595d517eddba6">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-838da60bf33d6c2d7bcd915f75424c1e94b5bd24.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\libs\android-viewbadger.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\android-viewbadger-99c98ac220cd61bc0567b8bb5743097aaba19284.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a668d295d9ba5c0c3aafa22c2fa26084639b6558.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-staggeredgrid\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="53c7b3252488ffcd664c6889d8d536a09ae3ad80">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-ae1ec6ed98de0e41dff0dd53a01fde6f31958829.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\ormlite-android-4.48-b3edff6d8d75694ea555b8148ddccaaa00259286.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-4826597c5672cce9f70c0cdf806f32b979b04e30.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-dragdrop\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2ccd61dc70f7b1dc968c73626f90a61eb542905">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-ec8e75ce5e9f9c7e254b66106c8c4fa11dbd7c5d.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\libLDrawer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d982955f701fc5f3e57c0320077b34ff266c1dee">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-85494f6a0198b7fff93569db92553fb8d1468efb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\ormlite-core-4.48-97fd13b50952aba11d7b2bbc379fdef787b53f0a.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.github.markushi\android-ui\1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-e144972ed45e15aa5789d08f30f6c8be3c712c29.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-recyclerview\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="15d2052aed6aa62f341d22e1ba6177697c7dc552">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-0191dbe087900022f137bbe8b9cde67f482048e5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\com.github.markushi\android-ui\1.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-578527f897c8e8eeff3bbbc1ec07a9d65d15921f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\sliderLibrary\unspecified\libs\picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\picasso-2.3.3-96912186f285b8c5b13584bf2b1aac017c572911.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\lNavDrawer\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99713f175825fd19e1a7c7d038715a8166345b8c">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-8abb90623922ad12017301b2891161a2ff92f984.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\libs\android-iconify-1.0.8.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7bba1039e3413ac0c82452b431a4aaa76648f7e9">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\android-iconify-1.0.8-29c60e85276bdcdebdd212d2f26e53966eb876b7.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\libs\OnBarcode.AndroidBarcode.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59dd13e54178477c62a29f94057e09f6d536c109">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\OnBarcode.AndroidBarcode-471554065063759527e8012adfe281be0e554091.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-e863f0b0c586abe40abc58bf7b942d9558c1377e.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\libs\android-iconify-1.0.8.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7bba1039e3413ac0c82452b431a4aaa76648f7e9">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\android-iconify-1.0.8-e2d5eaa77031883a0c5e8c0e2b07b4aedeee2032.jar" />
+    </item>
+    <item
+        jar="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-staggeredgrid\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="53c7b3252488ffcd664c6889d8d536a09ae3ad80">
+        <dex dex="E:\ESPRIT\Nouveau dossier\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-7231b4d96ab3dfb30d37fde1b9e92dce694ce73b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\MiracleF\miracle\build\intermediates\exploded-aar\MiracleF\circularImageView\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dcb627db513a2bfe960bb41688b3856036cb0d63">
+        <dex dex="D:\AndroidStudio\MiracleF\miracle\build\intermediates\pre-dexed\debug\classes-86e7c7e88afac779c45a95693aeb6a47bc10db26.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,58 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.1'
+
+    defaultConfig {
+        applicationId "com.elyes.miracle"
+        minSdkVersion 14
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':materialDesign')
+    compile project(':libLDrawer')
+    compile project(':lNavDrawer')
+    compile project(':sliderLibrary')
+    compile project(':circularImageView')
+    compile project(':MaterialNavigationDrawerModule')
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'com.google.android.gms:play-services:6.5.87'
+    compile files('libs/android-iconify-1.0.8.jar')
+    compile files('libs/android-viewbadger.jar')
+    compile files('libs/AndroidSwipeLayout-v1.1.6.jar')
+    compile files('libs/OnBarcode.AndroidBarcode.jar')
+    compile files('libs/ormlite-android-4.48.jar')
+    compile files('libs/ormlite-core-4.48.jar')
+    compile files('libs/ormlite-jdbc-4.48.jar')
+    //compile 'com.parse.bolts:bolts-android:1.+'
+    //compile fileTree(dir: 'libs', include: 'Parse-*.jar')
+    compile 'com.github.gabrielemariotti.cards:cardslib-core:2.0.1'
+
+    //Optional for built-in cards
+    compile 'com.github.gabrielemariotti.cards:cardslib-cards:2.0.1'
+
+    //Optional for RecyclerView
+    compile 'com.github.gabrielemariotti.cards:cardslib-recyclerview:2.0.1'
+
+    //Optional for staggered grid view support
+    compile 'com.github.gabrielemariotti.cards:cardslib-extra-staggeredgrid:2.0.1'
+
+    //Optional for drag and drop support
+    compile 'com.github.gabrielemariotti.cards:cardslib-extra-dragdrop:2.0.1'
+
+    //Optional for twowayview support (coming soon)
+    //compile 'com.github.gabrielemariotti.cards:cardslib-extra-twoway:2.0.1'
+}

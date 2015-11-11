@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_settings"
+        android:title="Add"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_settings2"
+        android:title="Details"
+        android:orderInCategory="101"
+        app:showAsAction="always" />
+</menu>
+<!-- From: file:/E:/ESPRIT/Nouveau%20dossier/MiracleF/miracle/src/main/res/menu/menu_main.xml -->

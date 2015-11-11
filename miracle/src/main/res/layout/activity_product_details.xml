@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.elyes.miracle.ProductDetails" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="30dp"
+                android:layout_height="55dp" />
+
+            <TextView
+                android:layout_width="330dp"
+                android:layout_height="55dp"
+                android:gravity="center"
+                android:text="Hello"
+                android:textSize="20dp"
+                android:id="@+id/productLibelleD"/>
+            <Button
+                android:layout_width="30dp"
+                android:layout_height="55dp"
+                android:layout_gravity="right"
+                />
+            </LinearLayout>
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="20dt"
+        android:textSize="15dp"
+        android:id="@+id/produitPrixD"/>
+
+        
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:id="@+id/produitImageD"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/produitDescriptionD"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Add to card"
+            android:id="@+id/produitIdD"/>
+        </LinearLayout>
+
+</RelativeLayout>

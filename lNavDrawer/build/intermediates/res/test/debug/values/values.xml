@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudio/MiracleF/lNavDrawer/build/intermediates/bundles/debug/res/values/values.xml -->
+    <eat-comment/>
+    <color name="blue">#4285F4</color>
+    <color name="dark_grey">#333333</color>
+    <color name="lvselect">#29b8b2</color>
+    <string name="app_name">L Navigation Drawer</string>
+</resources>

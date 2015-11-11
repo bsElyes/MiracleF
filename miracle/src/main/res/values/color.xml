@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_color">#bf360c</color>
+    <color name="drawer_arrow_second_color">#303f9f</color>
+    <color name="dark_grey">#333333</color>
+    <color name="blue">#4285F4</color>
+    <color name="lvselect">#29b8b2</color>
+
+
+    <!-- Birth new-->
+    <color name="card_header_birth_color">#707070</color>
+    <color name="card_line_birth_color">#E5E5E5</color>
+    <color name="card_googlenowbirth_title">@android:color/holo_blue_dark</color>
+
+</resources>

@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<ScrollView
+        android:id="@+id/card_scrollview"
+        style="@style/carddemo_default_container_padding"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <it.gmariotti.cardslib.library.view.CardView
+                android:id="@+id/carddemo_cardBirth3"
+                android:layout_width="@dimen/card_birth_width"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                card:card_layout_resourceID="@layout/carddemo_googlenowbirth_layout"
+                android:layout_marginTop="12dp"/>
+
+            <!-- Empty view-->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="15dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
+<!-- From: file:/E:/ESPRIT/Nouveau%20dossier/MiracleF/miracle/src/main/res/layout/fragment_about.xml -->

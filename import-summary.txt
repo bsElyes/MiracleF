@@ -1,0 +1,127 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From CircularImageView:
+* .idea\
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* proguard-project.txt
+From MaterialDesign:
+* MaterialDesign.iml
+* proguard-project.txt
+From Miracle:
+* ic_launcher-web.png
+* proguard-project.txt
+From SliderLibrary:
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:19.1.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:19.1.0]
+google-play-services_lib => [com.google.android.gms:play-services:+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In CircularImageView:
+* AndroidManifest.xml => circularImageView\src\main\AndroidManifest.xml
+* assets\ => circularImageView\src\main\assets\
+* res\ => circularImageView\src\main\res\
+* src\ => circularImageView\src\main\java\
+In LNavDrawer:
+* AndroidManifest.xml => lNavDrawer\src\main\AndroidManifest.xml
+* assets\ => lNavDrawer\src\main\assets\
+* res\ => lNavDrawer\src\main\res\
+* src\ => lNavDrawer\src\main\java\
+In LibLDrawer:
+* AndroidManifest.xml => libLDrawer\src\main\AndroidManifest.xml
+* assets\ => libLDrawer\src\main\assets\
+* res\ => libLDrawer\src\main\res\
+* src\ => libLDrawer\src\main\java\
+In MaterialDesign:
+* AndroidManifest.xml => materialDesign\src\main\AndroidManifest.xml
+* assets\ => materialDesign\src\main\assets\
+* lint.xml => materialDesign\lint.xml
+* res\ => materialDesign\src\main\res\
+* src\ => materialDesign\src\main\java\
+In SliderLibrary:
+* AndroidManifest.xml => sliderLibrary\src\main\AndroidManifest.xml
+* assets\ => sliderLibrary\src\main\assets\
+* libs\picasso-2.3.3.jar => sliderLibrary\libs\picasso-2.3.3.jar
+* res\ => sliderLibrary\src\main\res\
+* src\ => sliderLibrary\src\main\java\
+In Miracle:
+* AndroidManifest.xml => miracle\src\main\AndroidManifest.xml
+* assets\ => miracle\src\main\assets\
+* libs\android-iconify-1.0.8.jar => miracle\libs\android-iconify-1.0.8.jar
+* libs\android-viewbadger.jar => miracle\libs\android-viewbadger.jar
+* libs\AndroidSwipeLayout-v1.1.6.jar => miracle\libs\AndroidSwipeLayout-v1.1.6.jar
+* libs\OnBarcode.AndroidBarcode.jar => miracle\libs\OnBarcode.AndroidBarcode.jar
+* libs\ormlite-android-4.48.jar => miracle\libs\ormlite-android-4.48.jar
+* libs\ormlite-core-4.48.jar => miracle\libs\ormlite-core-4.48.jar
+* libs\ormlite-jdbc-4.48.jar => miracle\libs\ormlite-jdbc-4.48.jar
+* lint.xml => miracle\lint.xml
+* res\ => miracle\src\main\res\
+* src\ => miracle\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

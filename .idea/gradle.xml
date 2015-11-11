@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Tools\android-studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/MaterialNavigationDrawerModule" />
+            <option value="$PROJECT_DIR$/circularImageView" />
+            <option value="$PROJECT_DIR$/lNavDrawer" />
+            <option value="$PROJECT_DIR$/libLDrawer" />
+            <option value="$PROJECT_DIR$/materialDesign" />
+            <option value="$PROJECT_DIR$/miracle" />
+            <option value="$PROJECT_DIR$/sliderLibrary" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

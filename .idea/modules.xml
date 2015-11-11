@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialNavigationDrawerModule/MaterialNavigationDrawerModule.iml" filepath="$PROJECT_DIR$/MaterialNavigationDrawerModule/MaterialNavigationDrawerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiracleF.iml" filepath="$PROJECT_DIR$/MiracleF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circularImageView/circularImageView.iml" filepath="$PROJECT_DIR$/circularImageView/circularImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lNavDrawer/lNavDrawer.iml" filepath="$PROJECT_DIR$/lNavDrawer/lNavDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libLDrawer/libLDrawer.iml" filepath="$PROJECT_DIR$/libLDrawer/libLDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialDesign/materialDesign.iml" filepath="$PROJECT_DIR$/materialDesign/materialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miracle/miracle.iml" filepath="$PROJECT_DIR$/miracle/miracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sliderLibrary/sliderLibrary.iml" filepath="$PROJECT_DIR$/sliderLibrary/sliderLibrary.iml" />
+    </modules>
+  </component>
+</project>
